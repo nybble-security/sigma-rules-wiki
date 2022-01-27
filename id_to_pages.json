@@ -1,10 +1,11 @@
 {
     "8d84a6c6-7c71-4848-abd9-75fdfbaae6d1":"/pages/linux/process_creation/lnx_trigger_alert_test.md",
     "2953194b-e33c-4859-b9e8-05948c167447":"/pages/linux/process_creation/dd_file_overwrite.md",
-    "41e5c73d-9983-4b69-bd03-e13b67e9623c":"/pages/linux/process_creation/lnx_apt_equationgroup_lnx.md",
-    "e74e15cc-c4b6-4c80-b7eb-dfe49feb7fe9":"/pages/linux/process_creation/lnx_auditd_alter_bash_profile.md",
-    "37222991-11e9-4b6d-8bdf-60fbe48f753e":"/pages/linux/process_creation/lnx_auditd_dd_delete_file.md",
+    "80915f59-9b56-4616-9de0-fd0dea6c12fe":"/pages/linux/process_creation/lnx_clear_logs.md",
     "e2072cab-8c9a-459b-b63c-40ae79e27031":"/pages/linux/process_creation/lnx_base64_decode.md",
-    "83dcd9f6-9ca8-4af7-a16e-a1c7a6b51871":"/pages/linux/process_creation/lnx_back_connect_shell_dev.md",
-    "80915f59-9b56-4616-9de0-fd0dea6c12fe":"/pages/linux/process_creation/lnx_clear_logs.md"
+    "41e5c73d-9983-4b69-bd03-e13b67e9623c":"/pages/linux/builtin/lnx_apt_equationgroup_lnx.md",
+    "e74e15cc-c4b6-4c80-b7eb-dfe49feb7fe9":"/pages/linux/auditd/lnx_auditd_alter_bash_profile.md",
+    "37222991-11e9-4b6d-8bdf-60fbe48f753e":"/pages/linux/auditd/lnx_auditd_dd_delete_file.md",
+    "83dcd9f6-9ca8-4af7-a16e-a1c7a6b51871":"/pages/linux/network_connection/lnx_back_connect_shell_dev.md",
+    "36aa86ca-fd9d-4456-814e-d3b1b8e1e0bb":"/pages/linux/other/lnx_clamav.md"
 }
