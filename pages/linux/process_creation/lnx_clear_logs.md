@@ -1,14 +1,15 @@
-# How to process *Edit of .bash_profile and .bashrc* rule
-This rule detects change of user environment. Adversaries can insert code into these files to gain persistence each time a user logs in or opens a new shell.
+# How to process *Clear Linux Logs* rule
+This rule detects clear logs.
 
 # 1. Identify
-- In RAW Event, check which hostname and file are concerned by the event
+- In RAW Event, check which hostname and log file are concerned by the event
 
 # 2. Contextualize
-- go to SIEM and check what happened after the file has been changed:
+- go to SIEM and identify which username has done the action.
+- go to SIEM and check what happened around the log clear:
   - new connections from public IPs ? To public IPs ? Check found IPs with [Shodan](https://www.shodan.io/) 
   - downloading entries from internet ? check downloaded file hash with [VirusTotal](https://www.virustotal.com/gui/home/search)
-It will help to redefine the real impact of the rule.
+It will help to redefine the real impact of the event.
 
 # 3. Decide
 - True positive at any case because client insight is required here:
