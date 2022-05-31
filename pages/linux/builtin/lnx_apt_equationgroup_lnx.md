@@ -12,7 +12,7 @@ This rule detects suspicious shell commands used in various Equation Group scrip
 
 
 # 3. Decide
-- by default this rule is dangerous. If no good indicators are found (test file, known issue) &rarr; true positive
+- by default this rule is dangerous. If no good indicators are found (test file, known issue) &rarr; Incident
 
 # Known False Negatives
 None yet.

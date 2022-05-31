@@ -11,7 +11,7 @@ This rule detects change of user environment. Adversaries can insert code into t
 It will help to redefine the real impact of the rule.
 
 # 3. Decide
-- True positive at any case because client insight is required here:
+- Escalate at any case because client insight is required here:
   - if it's not legitimous, deeper investigation has to be made
   - if it's fine, rule has to be disabled
 

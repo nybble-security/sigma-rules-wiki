@@ -12,8 +12,8 @@ This rule detects potential overwriting and deletion of a file using DD.
   - downloading entries from internet ? check downloaded file hash with [VirusTotal](https://www.virustotal.com/gui/home/search)
 
 # 3. Decide
-- non critical file overwritten by dd &rarr; false negative
-- critical file touched by dd / overwritten with unknown values &rarr; true positive
+- non critical file overwritten by dd &rarr; Incident
+- critical file touched by dd / overwritten with unknown values &rarr; Incident
 
 # Known False Negatives
 None yet.

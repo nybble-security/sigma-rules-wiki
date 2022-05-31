@@ -12,8 +12,8 @@ This rule detects usage of base64 utility to decode arbitrary base64-encoded tex
   - downloading entries from internet? check downloaded file hash with [VirusTotal](https://www.virustotal.com/gui/home/search)
 
 # 3. Decide
-- base64 usage is unusual on servers. Unless good indicators are found &rarr; true positive
-- nevertheless, client can legitimate the usage. In this case, true positive in order to disable the rule for the specific host
+- base64 usage is unusual on servers. Unless good indicators are found &rarr; Incident
+- nevertheless, client can legitimate the usage. In this case, Escalate in order to disable the rule for the specific host
 
 # Known False Negatives
 None yet.

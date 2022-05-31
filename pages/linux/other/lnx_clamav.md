@@ -12,7 +12,7 @@ This rule detects relevant ClamAV messages
 
 
 # 3. Decide
-- by default a match on this rule is dangerous. If no good indicators are found (ECARE test) &rarr; true positive
+- by default a match on this rule is dangerous. If no good indicators are found (ECARE test) &rarr; Incident
 
 # Known False Negatives
 None yet.

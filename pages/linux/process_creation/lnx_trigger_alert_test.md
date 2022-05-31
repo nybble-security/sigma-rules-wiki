@@ -11,8 +11,8 @@
 - go to SIEM and check network flow done after rule triggering date
 
 # 3. Decide
-- no network flow & no answer from VirusTotal &rarr; false negative
-- suspect network flow &rarr; need investigation &rarr; true positive
+- no network flow & no answer from VirusTotal &rarr; No Incident
+- suspect network flow &rarr; need investigation &rarr; Incident
 
 # Known False Negatives
 None yet.
