@@ -8,5 +8,7 @@
     "37222991-11e9-4b6d-8bdf-60fbe48f753e":"/pages/linux/auditd/lnx_auditd_dd_delete_file.md",
     "83dcd9f6-9ca8-4af7-a16e-a1c7a6b51871":"/pages/linux/network_connection/lnx_back_connect_shell_dev.md",
     "36aa86ca-fd9d-4456-814e-d3b1b8e1e0bb":"/pages/linux/other/lnx_clamav.md",
-    "4601eaec-6b45-4052-ad32-2d96d26ce0d8":"/pages/network/net_susp_network_scan_by_ip.md"
+    "4601eaec-6b45-4052-ad32-2d96d26ce0d8":"/pages/network/net_susp_network_scan_by_ip.md",
+    "51186749-7415-46be-90e5-6914865c825a":"/pages/network/net_firewall_high_dns_requests_rate.md",
+    "0b9ad457-2554-44c1-82c2-d56a99c42377":"/pages/windows/file_event/file_event_win_anydesk_artefact.md"
 }
