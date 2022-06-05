@@ -10,5 +10,8 @@
     "36aa86ca-fd9d-4456-814e-d3b1b8e1e0bb":"/pages/linux/other/lnx_clamav.md",
     "4601eaec-6b45-4052-ad32-2d96d26ce0d8":"/pages/network/net_susp_network_scan_by_ip.md",
     "51186749-7415-46be-90e5-6914865c825a":"/pages/network/net_firewall_high_dns_requests_rate.md",
-    "0b9ad457-2554-44c1-82c2-d56a99c42377":"/pages/windows/file_event/file_event_win_anydesk_artefact.md"
+    "0b9ad457-2554-44c1-82c2-d56a99c42377":"/pages/windows/file_event/file_event_win_anydesk_artefact.md",
+    "fdeebdf0-9f3f-4d08-84a6-4c4d13e39fe4":"/pages/windows/network_connection/net_connection_win_mega_nz.md",
+    "aa1697b7-d611-4f9a-9cb2-5125b4ccfd5c":"/pages/windows/builtin/security/win_susp_lsass_dump.md",
+    "9433ff9c-5d3f-4269-99f8-95fc826ea489":"/pages/windows/file_event/file_event_win_crackmapexec_patterns.md"
 }
