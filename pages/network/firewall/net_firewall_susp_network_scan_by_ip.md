@@ -2,7 +2,7 @@
 
 # 1. Identify
 - check source.ip
-- check destination.ip
+- check destination.ip(s)
 - check destination.port if any
 
 These informations must be controlled to determine if it's a well known scanner.
